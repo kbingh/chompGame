@@ -1,0 +1,53 @@
+panels.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+credits
+  rotate: false
+  xy: 1264, 724
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1
+instructions_accelerometer
+  rotate: false
+  xy: 1264, 1446
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1
+instructions_keyboard
+  rotate: false
+  xy: 2, 1446
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1
+intro
+  rotate: false
+  xy: 2, 724
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1
+menuback
+  rotate: false
+  xy: 2, 2
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 2, 2168
+  size: 1296, 750
+  orig: 1296, 750
+  offset: 0, 0
+  index: -1
+options_accelerometer
+  rotate: false
+  xy: 1264, 2
+  size: 1260, 720
+  orig: 1260, 720
+  offset: 0, 0
+  index: -1

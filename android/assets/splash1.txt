@@ -1,0 +1,137 @@
+splash1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+splash1
+  rotate: false
+  xy: 2, 2
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 0
+splash1
+  rotate: false
+  xy: 634, 2
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 1
+splash1
+  rotate: false
+  xy: 2, 364
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 10
+splash1
+  rotate: false
+  xy: 634, 364
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 11
+splash1
+  rotate: false
+  xy: 2, 726
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 12
+splash1
+  rotate: false
+  xy: 634, 726
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 13
+splash1
+  rotate: false
+  xy: 2, 1088
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 14
+splash1
+  rotate: false
+  xy: 634, 1088
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 15
+splash1
+  rotate: false
+  xy: 2, 1450
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 16
+splash1
+  rotate: false
+  xy: 634, 1450
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 17
+splash1
+  rotate: false
+  xy: 2, 1812
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 18
+splash1
+  rotate: false
+  xy: 634, 1812
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 2
+splash1
+  rotate: false
+  xy: 2, 2174
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 3
+splash1
+  rotate: false
+  xy: 634, 2174
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 4
+splash1
+  rotate: false
+  xy: 2, 2536
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 5
+splash1
+  rotate: false
+  xy: 634, 2536
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 6
+splash1
+  rotate: false
+  xy: 2, 2898
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 7
+splash1
+  rotate: false
+  xy: 634, 2898
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 8
+splash1
+  rotate: false
+  xy: 2, 3260
+  size: 630, 360
+  orig: 630, 360
+  offset: 0, 0
+  index: 9
